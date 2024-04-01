@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: Brand
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Marketing Executors'
 image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->

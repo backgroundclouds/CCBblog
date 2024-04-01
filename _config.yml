@@ -25,11 +25,13 @@ socials:
   #GitHub: https://github.com/andrewbanchich
   #GitLab:
   # Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram: instagram.com/jptv.media
+
+  Instagram: https://instagram.com/jptv.media
   LinkedIn: https://www.linkedin.com/in/jptvmedia
   Bluesky: https://bsky.app/profile/parkholer.bsky.social
   Substack: https://jptv.substack.com/
   Website: https://jptv.media
+  Author: 
 
 # build settings
 markdown: kramdown

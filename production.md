@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: Film Production
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Film Shit'
 image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
