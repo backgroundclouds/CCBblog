@@ -1,72 +1,60 @@
-<!-- Contact -->
-<section id="contact">
-	<div class="inner">
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-				</div>
-			</section>
-		</section>
-	</div>
-</section>
 
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
-			</ul>
-		</div>
-	</footer>
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      
+      <div class="row">
+        <div class="col-xs-6 col-md-3">
+          <h6>Author</h6>
+          <div class="author-blurb"> 
+          <p class="text-justify">Josh Parkhill is a freelance Line Producer, Production Manager, and Director Rep, based in New York City, available as a local across the US + CAN. If you are someone who would like help bidding, actualizing, or executing a project please feel free to reach out direct. Also open to friendly conversation. </div></p>
+        </div>
+        <div class="col-xs-6 col-md-3">
+            <ul class="footer-links">
+              <h6>Quick Links</h6>
+              {% for key_value in site.quick_links %}
+              {% if key_value[1] %}
+              <li>
+                <a href="{{ key_value[1] }}"  target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0]}}"> <span class="label">{{ key_value[0]}}</span> </a>
+              </li>
+              {% endif %}
+              {% endfor %}
+          </ul>
+        </div>
+        <div class="col-xs-6 col-md-3">
+            <ul class="footer-links">
+          <h6>Socials</h6>
+            {% for key_value in site.new_socials %}
+              {% if key_value[1] %}
+                <li>
+                  <a href="{{ key_value[1] }}"  target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0]}}"> <span class="label">{{ key_value[0]}}</span> </a>
+            </li>
+              {% endif %}
+            {% endfor %}
+            </ul>
+      <!-- <hr> -->
+    </div>
+    </div>
+    <div class="container" id="CopyrightContainer">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2024 All Rights Reserved by 
+       <a href="#">Thought Pro LLC</a>.
+          </p>
+        </div>
+        </div>
 
-</div>
+  
+          </ul>
+        </div>
+          </div>
+        </div>
+      </div>
+      </footer>
+      
+    
+</footer>
 
 <!-- Scripts -->
 	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>

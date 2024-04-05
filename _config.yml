@@ -5,13 +5,13 @@ email: josh@jpax.tv
 description: Film intersects with advertising intersects with brand.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-author: Josh Parkhill
+author: JP- Parkhill
 city: New York
 state: NY
-zip_code: 1000
+zip_code: 10001
 country: United States of America
 lang: en
-# phone: (716) 555-5555
+phone: '917.744.1674'
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -31,7 +31,51 @@ socials:
   Bluesky: https://bsky.app/profile/parkholer.bsky.social
   Substack: https://jptv.substack.com/
   Website: https://jptv.media
-  Author: 
+
+# updated socials for new footer
+new_socials:
+  Instagram: https://instagram.com/jptv.media
+  LinkedIn: https://www.linkedin.com/in/jptvmedia
+  Bluesky: https://bsky.app/profile/parkholer.bsky.social
+  Substack: https://jptv.substack.com/
+
+
+# quick links for new footer
+quick_links:
+  JPTV: https://jptv.media
+  Email: mailto:josh@jpax.tv
+  917.744.1674: tel:+19177441674
+
+
+  #- Directors.Work: Directors.Work
+  #  url: https://directors.work
+  #- title: FilmShit
+  #  url: https://filmshit.pro
+
+
+social_logos:
+  https://instagram.com/jptv.media : assets/logos/instagram.svg
+  https://www.linkedin.com/in/jptvmedia : assets/logos/linkedin.svg
+  https://bsky.app/profile/parkholer.bsky.social : assets/logos/bluesky.svg
+  https://jptv.substack.com/ : assets/logos/substack.svg
+
+social_icons:
+  - title: Instagram
+    url: https://instagram.com
+    logo: assets/logos/instagram.svg
+  - title: LinkedIn
+    url: https://linkedin.com
+    logo: assets/logos/linkedin.svg
+  - title: Bluesky
+    url: https://bluesky.com
+    logo: assets/logos/bluesky.svg
+  - title: Substack
+    url: https://substack.com
+    logo: assets/logos/substack.svg
+
+
+
+
 
 # build settings
 markdown: kramdown
