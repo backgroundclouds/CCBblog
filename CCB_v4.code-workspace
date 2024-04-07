@@ -38,11 +38,12 @@
             "terminal.ansiYellow": "#A03B1E"
         },
         "editor.formatOnSave": true,
-        "editor.defaultFormatter": "MylesMurphy.prettify-ts",
-        "html.format.templating": false,
+        "editor.defaultFormatter": null,
+        "html.format.templating": true,
         "inlineChat.mode": "live",
         "[html]": {
             "editor.defaultFormatter": "vscode.markdown-language-features"
-        }
+        },
+        "dart.enableSdkFormatter": false
     }
 }

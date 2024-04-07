@@ -1,7 +1,10 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": null,
+    "editor.defaultFormatter": "ecmel.vscode-html-css",
     "scss.format.spaceAroundSelectorSeparator": true,
     "html.format.templating": true,
-    "html.format.indentInnerHtml": true
+    "html.format.indentInnerHtml": true,
+    "css.format.spaceAroundSelectorSeparator": true,
+    "editor.linkedEditing": false,
+    "editor.formatOnSaveMode": "modificationsIfAvailable"
 }
