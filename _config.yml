@@ -3,8 +3,8 @@ title: CCB
 subtitle: DIRECTORS
 email: josh@jpax.tv
 description: Film intersects with advertising intersects with brand.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+baseurl: "CCBblog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author: JP- Parkhill
 city: New York
 state: NY
