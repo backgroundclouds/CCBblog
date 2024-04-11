@@ -1,7 +1,11 @@
 ---
 title: Film Production
 layout: landing
-description: 'Film Shit'
+# description: 'And other shit'
+sub_description: |
+    
+    Turn these **goons** into **goombas** in under an hour'
+    
 image: assets/images/pic07.jpg
 nav-menu: true
 show_tile: true
@@ -31,50 +35,13 @@ show_tile: true
                 </ul>
             </article>
         {% else %}
-            <p>Featured post not found.</p>
+        <article>
+            <h3><p>Featured post not found.</p></h3>
+            <br>
+            </article>
         {% endif %}
-	</header>
-
-
-<!-- Two -->
-<section id="two" class="spotlights">
-    <section>
-        <a href="{{ rank2_post.url | prepend: site.baseurl }}" class="image">
-            <img src="{{ '/assets/images/pic08.jpg' | prepend: site.baseurl }}" alt="" data-position="center center" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3> <a href="{{ rank2_post.url | prepend: site.baseurl }}"> {{ rank2_post.title }}</a>
-					</h3>
-                </header>
-                <p>{{ rank2_post.description }}</p>
-                <ul class="actions">
-                    <li><a href="{{ rank2_post.url | prepend: site.baseurl }}" class="button">More</a></li>
-                </ul>
-            </div>
         </div>
-    </section>
-    <section>
-        <a href="{{ rank3_post.url | prepend: site.baseurl }}" class="image">
-            <img src="{{ '/assets/images/pic09.jpg' | prepend: site.baseurl }}" alt="" data-position="25% 25%" />
-        </a>
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3><a href="{{ rank3_post.url | prepend: site.baseurl }}"> {{ rank3_post.title }}</a>
-					</h3>
-                </header>
-                <p>{{ rank3_post.description }}</p>
-                <ul class="actions">
-                    <li><a href="{{ rank3_post.url | prepend: site.baseurl }}" class="button"> More</a></li>
-                </ul>
-            </div>
-        </div>
-    </section>
-	<br><br>
-</section>
-
+        </section>
 
 
 
@@ -86,5 +53,6 @@ show_tile: true
 		<p> For a text block list of all brand posts go here<br><br>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Here</a></li>
+
 
 

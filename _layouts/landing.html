@@ -22,10 +22,19 @@
                 
             
                 <div class="content">
-                  
-                    {{ page.description }}
+                  <section>
+                    <h4>{{ page.description }}</h4>
+
+                </section>
                 
             </div>
+
+            <!-- // css stored in sass/layouts/_banner.scss -->
+            <div class="banner-quote">
+
+            <p>{{ page.sub_description | newline_to_br | markdownify }}</p>
+        </div>
+            
         </div>
     </header>
         </section>
