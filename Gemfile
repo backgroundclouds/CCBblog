@@ -1,18 +1,15 @@
-# gpt replacement here, made to match github pages
-
 source 'https://rubygems.org'
+ruby '3.2.2'
 
-# Use the exact version of Jekyll that GitHub Pages uses
-gem 'jekyll', '3.9.5'
+gem 'jekyll', '~> 4.2'  # Update the version according to what you need
 
-# Use github-pages gem to manage all dependencies
-gem 'github-pages', '231', group: :jekyll_plugins
 
-# Ensure any additional plugins are compatible with GitHub Pages
 group :jekyll_plugins do
-  # Only include plugins that are compatible with GitHub Pages
-  # gem 'jekyll-timeago', '~> 0.13.1' # Commented out; ensure compatibility or remove
+  gem 'jekyll-feed'
+  gem 'jekyll-sitemap'
+  # Include other necessary plugins here
 end
+
 
 
 
