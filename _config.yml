@@ -82,9 +82,13 @@ markdown: kramdown
 permalink: none
 comments: false
 
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
+sass:
+   sass_dir: _sass
+
+   
 exclude:
 - "*.gemspec"
 - LICENSE.md
