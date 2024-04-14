@@ -37,13 +37,15 @@
 <section id="one">
 	<div class="inner">
 
-		
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
 		<header class="major">
 			<h1 class="">{{ page.title }}</h1>
+			
+			
 		</header>
-
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
 		
+
+		<h5 class="">{{ page.date }}</h5>
 		{{ content }}
 	</div>
 </section>
