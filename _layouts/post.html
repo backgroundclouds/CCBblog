@@ -6,6 +6,21 @@
 -->
 <html>
 
+<style>
+	.post-image{
+		width: 70% !important;
+		height: auto;
+		margin-left: 15%;
+	}
+	.post-title{
+		font-size: 40px;
+		margin-left: 60% !important;
+	}
+	.article-line{
+		border: 1px solid white;
+	}
+</style>
+
 {% include head.html %}
 
 <body>
@@ -19,10 +34,14 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
+
+		
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
 		<header class="major">
-			<h1>{{ page.title }}</h1>
+			<h1 class="">{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+
+		
 		{{ content }}
 	</div>
 </section>
