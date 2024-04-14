@@ -21,11 +21,12 @@
 	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-	  </header>
+
     {% if post.image %}
     <a href="{{ post.url | prepend: site.baseurl }}">
+      <header class="major">
+        <h1>{{ post.title }}</h1>
+      </header>
       <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
     </a>
   {% endif %}
