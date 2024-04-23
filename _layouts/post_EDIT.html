@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<style>
+	#main{
+		padding: 0 200px;
+	}
+	.post-image{
+		max-width: 100%;
+		height: auto
+	}
+	.article-line{
+		border: 1px solid white;
+	}
+	@media (max-width: 1280px) {
+		#main{
+		padding: 0 150px;
+	}
+	}
+	@media (max-width: 1024px) {
+		#main{
+		padding: 0 100px;
+	}
+	}
+	@media (max-width: 767px) {
+		#main{
+		padding: 0 0px;
+	}
+	}
+	@media (max-width: 480px) {
+		#main{
+		padding: 0 0px;
+	}
+	}
+	@media (max-width: 360px) {
+		#main{
+			padding: 0 0px;
+		}
+	}
+</style>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+
+		<header class="major">
+			<h1 class="">{{ page.title }}</h1>
+			<h3 class="">{{ page.description }}</h3>
+			
+			
+		</header>
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
+		
+
+		<h4 class=""><i class="fas fa-calendar"></i> Date Uploaded: {{ page.date | date: "%-d %B %Y" }}</h4>
+		{{ content }}
+	</div>
+</section>
+
+</div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>

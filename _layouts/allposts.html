@@ -12,12 +12,68 @@
 
     {% include header.html %} 
     
+        <!-- Main -->
+        <div id="main" class="alt">
+
+
+    <!-- One -->
+    <section id="one">
+      <div class="inner">
+        <header class="major">
+          <h1>All Posts</h1>
+        </header>
+        </div>
+      </section>
     
+    
+    
+    
+          <section id="two" class="posts">
+                          <div class="inner">  
+        {% for post in site.posts %}
+        {% if post.title != 404 %}
+    
+        <section>
+          <div class="inner">
+    
+            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    
+    
+          {% if post.image %}
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
+          </a>
+        {% endif %}
+        </div>
+      </section>
+        <section>
+    
+    
+          {% if post.date %}<p>{{ post.date | date: "%B %d, %Y" }}</p>{% endif %}
+        <p>{{ post.description }}</p>
+        {% endif %}
+              {% endfor %}
+      </div>
+        </section>
+          </section>
+    
+        </div>
+        
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
+
+
+
+
     <!-- Main -->
-    <div id="main" class="alt">
+    <!-- <div id="main" class="alt"> -->
 
       <!-- One -->
-      <section id="one">
+      <!-- <section id="one">
 	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
@@ -37,12 +93,4 @@
 	</div>
       </section>
 
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
-
-
+    </div> -->
