@@ -7,41 +7,19 @@
 <html>
 
 <style>
-	#main{
-		padding: 0 200px;
-	}
 	.post-image{
-		max-width: 100%;
+		width: 100%;
 		height: auto
 	}
 	.article-line{
 		border: 1px solid white;
 	}
-	@media (max-width: 1280px) {
-		#main{
-		padding: 0 150px;
-	}
-	}
-	@media (max-width: 1024px) {
-		#main{
-		padding: 0 100px;
-	}
-	}
-	@media (max-width: 767px) {
-		#main{
-		padding: 0 0px;
-	}
-	}
-	@media (max-width: 480px) {
-		#main{
-		padding: 0 0px;
-	}
-	}
-	@media (max-width: 360px) {
-		#main{
-			padding: 0 0px;
-		}
-	}
+	#main > * > .inner {
+    padding: 0em 0 2em 0 !important;
+    margin: 0 auto;
+    max-width: 65em;
+    width: calc(100% - 6em);
+}
 </style>
 
 {% include head.html %}
@@ -67,7 +45,7 @@
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
 		
 
-		<h4 class=""><i class="fas fa-calendar"></i> Date Uploaded: {{ page.date | date: "%-d %B %Y" }}</h4>
+		<h5 class="">🗓️ Date Uploaded: {{ page.date }}</h5>
 		{{ content }}
 	</div>
 </section>

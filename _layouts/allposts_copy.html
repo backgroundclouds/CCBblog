@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %} 
+    
+
+    <!-- <style>
+      .allpost-container {
+        max-width: calc(700px - 60px); /* Adjusting calc to simplify it: 60px is 2*30px */
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 30px;
+        padding-left: 30px;
+        position: relative;
+      }
+      </style> -->
+
+    
+    <!-- Main -->
+    <div id="main" class="alt">
+
+      <!-- One -->
+      <section id="one">
+	<div class="inner">
+	  <header class="major">
+      <h1>All Posts</h1>
+    </header>
+    </div>
+  </section>
+
+
+
+      <section id="two" class="posts">
+        <div class="inner allpost-container">
+          <h2>Blog Posts</h2>
+          
+    {% for post in site.posts %}
+	  {% if post.title != 404 %} 
+
+    <!-- individual post header -->
+    <div class ="allpost-item-header">
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      {% if post.image %}
+      
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
+      </a>
+    {% endif %}
+  </div>
+<!-- individual post date & body -->
+<div class="allpost-item-body">
+
+      {% if post.date %}<p>{{ post.date | date: "%B %d, %Y" }}</p>{% endif %}
+	  <p>{{ post.description }}</p>
+  
+	  {% endif %}
+  </div>
+          {% endfor %}
+	<!-- </div> -->
+</section>
+  </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
