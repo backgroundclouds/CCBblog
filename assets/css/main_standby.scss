@@ -41,12 +41,51 @@
 			@include padding(4em, 0);
 			margin: 0 auto;
 			max-width: _size(inner);
-			@include padding(3em, 0);
 			width: calc(100% - 6em);
 
-			
+			@include breakpoint(small) {
+				@include padding(3em, 0);
+				width: calc(100% - 3em);
+			}
 		}
 	}
+
+
+
+	  .main{
+		max-width: 600px;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+	  }
+
+	  .allpost-container {
+		
+		
+    	max-width: calc(300px - 60px); /* Adjusting calc to simplify it: 60px is 2*30px */
+        margin-right: auto;
+        margin-left: auto;
+        padding-right: 90px;
+        padding-left: 90px;
+        position: relative;
+      }
+
+	  .allpost-item-header {
+		margin-bottom: 1em; /* space between the title/image and the date/description */
+	  }
+
+	  .allpost-item-header img {
+		max-width: 100%; /* ensure images are responsive */
+		height: auto;
+		display: block; /* removes bottom space/gap under the image */
+	  }
+
+	//   .allpost-item-body {
+	// 	padding: 15px;
+	// 	border-radius: 5px;
+	//   }
+	  
 
 // Base.
 
