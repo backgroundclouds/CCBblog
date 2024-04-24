@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_EDIT
 title: "Best Budgeting Software for Commercial Bids"
 description: A Practical Rundown for Commercial Producers, Bidders, & PM's
 image: assets/images/Hot-Budget-Screenshot.png
