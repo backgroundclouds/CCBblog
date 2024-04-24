@@ -1,0 +1,21 @@
+/* Error: Undefined mixin.
+ *    ,
+ * 25 | /     @include media-query($on-laptop) {
+ * 26 | |       max-width: -webkit-calc(800px - (#{$spacing-unit}));
+ * 27 | |       max-width:         calc(800px - (#{$spacing-unit}));
+ * 28 | |       padding-right: $spacing-unit / 2;
+ * 29 | |       padding-left: $spacing-unit / 2;
+ * 30 | \     }
+ *    '
+ *   _sass/layout/_layout.scss 25:5  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 25 \2502  \250c      @include media-query($on-laptop) {\a 26 \2502  \2502        max-width: -webkit-calc(800px - (#{$spacing-unit}));\a 27 \2502  \2502        max-width:         calc(800px - (#{$spacing-unit}));\a 28 \2502  \2502        padding-right: $spacing-unit / 2;\a 29 \2502  \2502        padding-left: $spacing-unit / 2;\a 30 \2502  \2514      }\a    \2575 \a   _sass/layout/_layout.scss 25:5  root stylesheet";
+}
