@@ -1,5 +1,5 @@
 ---
-layout: post_EDIT
+layout: post
 title: "Best Budgeting Software for Commercial Bids"
 description: A Practical Rundown for Commercial Producers, Bidders, & PM's
 image: assets/images/Hot-Budget-Screenshot.png
@@ -15,8 +15,7 @@ And it’s worth keeping in mind— _if you're bid can't actualize correctly, y
 
 **Principally a commercial budgeting** software does the following with ease.
 
-- Work easily w/ the [AICP Bid Format](https://aicp.com/assets/editor/AICP_bidform_2019_FINAL.pdf)­­
-    
+- Work easily w/ the [AICP Bid Format](https://aicp.com/assets/editor/AICP_bidform_2019_FINAL.pdf)­­ 
 - PO's
 - PC
 - Freelance day-rates **->** Payroll
@@ -28,8 +27,6 @@ To date, there are primarily 2 options for commercial bidding. **Hot Budget or 
 ### The industry standard
 
 As stated, **Hot Budget** is the industry standard. At this point it's what every other bidding software is modeled after.  It's built [on top](https://learn.microsoft.com/en-us/office/dev/add-ins/quickstarts/excel-quickstart-jquery?tabs=yeomangenerator) of Excel, and is therefore lightweight and efficient. Utilizing JavaScript Hot Budget utilizes Excel's [VBA software](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)  and macro plugins to make a straightforward budgeting software.
-
-
 
 ![Hot Budget Screenshot](/assets/images/Hot-Budget-Screenshot.png)
 
@@ -51,8 +48,6 @@ Hot Budget does all of the things you want a commercial bidding software to do, 
 
 Hot Bricks charges $100 per year for subscription access to bidding software, per device. For most freelancers in the production game, this cost is written off on the first job of the year. However, I’ve also had the lovely peeps at [Hot Bricks](https://hotbricks.com/) throw in an extra subscription, when renting expendables from them.
 #### The Gossip
-
-
 ![](/assets/images/posts/best-budgeting/runtime_funtime.png)
 
 It's worth noting, that prior to 2023 Hot Budget was prone to bugs. It's 2023 update seems to have solved all of that. The bugs were seldom serious enough to be detrimental to the use of Hot Budget. In fact they were somewhat part of its charm. It's 2023 update ([Hot Budget version 3](https://downloads.hotbudget.com/HotBudget_v3.0_UserGuide.pdf)) has been impressive in terms of how uncharacteristically smooth it has made the application. No longer do you see runtime errors, so long are the days of 2014, or 2022 for that matter.
@@ -101,12 +96,10 @@ I've also been able to email Showbiz support staff about technical questions, wi
 I don't take a hard position for either. Considering Hot Budget's most recent update, I have no complaints about it. Hot Budget is simpler, cheaper, more lightweight, and universally understood., So in that sense it's easier to work with. Showbiz is more sophisticated, and allows for more iterative detail exploration. Its PO log doubling as a PO book is definitely a bonus as well
 
 #### **Preferences:**
-
 - For jobs 1M ↑, definitely Showbiz. On these occasions, the more sophisticated browsing comes in handy.
 - Otherwise, no preference.
 
 ## The Lesser Known Alternatives
-
 There are a handful of alternatives worth mentioning.
 
 ### Point Zero
