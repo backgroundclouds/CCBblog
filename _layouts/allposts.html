@@ -13,6 +13,54 @@
       width: 700px; /* Adjust this value to set a uniform height */
       object-fit: cover; /* Ensures the image covers the set area, may crop if necessary */
     }
+    body {
+      font-family: 'Source Sans Pro', Helvetica, sans-serif;
+      line-height: 1.65;
+      color: #ffffff;
+      background-color: #242943; /* Assuming this as a default background */
+    }
+
+    .allposts-inner {
+      max-width: 800px; /* Adjusts the width of the content area */
+      margin: auto; /* Centers the content within the section */
+      padding: 20px; /* Adds spacing around the content inside the inner div */
+      background-color: #2a2f4a; /* Slightly different background for content areas */
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    }
+
+.allposts-wrapper {
+  position: relative; /* Important for proper positioning of the pseudo-element */
+  padding: 20px;
+  border: 1px solid #333; /* Adds a border around each post wrapper */
+  margin-bottom: 40px; /* Increased bottom margin for clearer separation */
+  background-color: #292f45; /* Darker background for each post container */
+}
+.allposts-wrapper::after {
+  content: '';
+  display: block;
+  height: 20px; /* Height of the visual break */
+  background-color: #242943; /* Background color of the main body for contrast */
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -40px; /* Adjusted positioning for visual break */
+  z-index: -1; /* Ensure it does not overlap the image */
+}
+
+
+
+    h1, h2, h3, h4, h5, h6 {
+      margin: 0 0 10px 0; /* Reduces space below headers */
+      color: #fff; /* Sets text color for headers */
+    }
+
+    p {
+      color: #ccc; /* Lighter text color for readability */
+    }
+
+    
+
+
   </style>
   <body>
 
@@ -25,9 +73,11 @@
     <!-- One -->
     <section id="one">
       <div class="inner">
+        <div class="allposts-inner">
         <header class="major">
           <h1>All Posts</h1>
         </header>
+      </div>
         </div>
       </section>
     
@@ -36,25 +86,20 @@
     
           <section id="two" class="posts">
                           <div class="inner">  
+                            <div class="allposts-inner">
+                            
         {% for post in site.posts %}
         {% if post.title != 404 %}
-    
-        <section>
-          <div class="inner">
+        <div class="allposts-wrapper">
     
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    
-    
           {% if post.image %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             <span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>
           </a>
         {% endif %}
-        </div>
-      </section>
+
         <section>
-    
-    
           {% if post.date %}<p>{{ post.date | date: "%B %d, %Y" }}</p>{% endif %}
         <p>{{ post.description }}</p>
         {% endif %}
@@ -62,7 +107,8 @@
       </div>
         </section>
           </section>
-    
+          
+        </div>
         </div>
         
 
