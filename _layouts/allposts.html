@@ -9,11 +9,11 @@
   {% include head.html %}
   <style>
     .posts .image img {
-      max-width: 50%; /* Adjust this value to make the image smaller or larger */
-      height: auto; /* Maintains the aspect ratio */
+      height: 100%; /* This sets the image width to take full container width */
+      width: 700px; /* Adjust this value to set a uniform height */
+      object-fit: cover; /* Ensures the image covers the set area, may crop if necessary */
     }
   </style>
-
   <body>
 
     {% include header.html %} 
