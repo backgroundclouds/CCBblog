@@ -7,6 +7,12 @@
 <html>
 
   {% include head.html %}
+  <style>
+    .posts .image img {
+      max-width: 50%; /* Adjust this value to make the image smaller or larger */
+      height: auto; /* Maintains the aspect ratio */
+    }
+  </style>
 
   <body>
 
@@ -50,7 +56,7 @@
     
     
           {% if post.date %}<p>{{ post.date | date: "%B %d, %Y" }}</p>{% endif %}
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.description }}</p>
         {% endif %}
               {% endfor %}
       </div>
