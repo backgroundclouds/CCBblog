@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Napolean and implications of scope"
+title: "Napolean and Implications of Scope"
 description: Using Napoleon as a jumping-off point to explore scope, modularity, and various aspects of complexity across mediums and sciences––
 image: assets/images/posts/scope/Scope-Cover.jpg
 categories: brand
@@ -131,14 +131,14 @@ The complexity of an intangible medium can be conveyed in a way that is very muc
 
 But there are different types of complexity in narrative. Presenting a myriad of ideas, is not the same as presenting an abundance of details, or the negative space of narrative....
 
-![Illustration of different types of complexity](/assets/images/posts/scope/complexity-v5@0.5x.jpg)*illustrating the forms of complexity*
+![Illustration of different types of complexity](/assets/images/posts/scope/table-v4.1.png)*Various Forms of Narrative Complexity*
 
 Above is a table that captures various forms of complexity from different popular movies. The table itself is parsed, sorted, & presented in a format that allows for ease of skimming.
 ·      **Form = Format**
 ·      **Format ≈ Scope**
 Below is the same exact information as the above table lacking margin and much format. Graphical or literary.
 
-(assets/images/posts/scope/anti-table_v2.png)
+![A messy literal display of the same information from the above table, pressented outside of a table](assets/images/posts/scope/anti-table_v2.png)*Various forms of Narrative Complexity NOT in a table
 
 ## Depth, Density & Documentation
 ### Food for thought:
