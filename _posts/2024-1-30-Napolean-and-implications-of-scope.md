@@ -178,7 +178,6 @@ A good spot, has a good kernel. Whether it be the compelling premise a copywrite
 
 Below is a particular favorite, a 30 second spot with a beginning, a middle, an end. It provides a piece of high value novelty at its core, and amazingly enough it has a sense of structure despite its brevity.
 
-
 [![Las Vegas Love Stories - Park MGM](/assets/images/posts/scope/MGM-thumbnail.png)](https://youtu.be/X2speTRgxvE?si=2JMUE1kc1KiQTd3B)  
 *Las Vegas Love Stories - Park MGM*
 

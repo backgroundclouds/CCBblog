@@ -1,0 +1,40 @@
+
+<meta charset="UTF-8">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap" rel="stylesheet">
+
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600&display=swap');
+
+
+#main-1 {
+  margin: 20px auto;
+  max-width: 800px; /* Limit the width of the content */
+  padding: 20px;
+  border: 1px solid #ffffff; /* Optional: adds a white border for visual distinction */
+}
+
+.cta-text {
+    color: rgba(255, 255, 255, 0.8); /* Soft purple for a light but visible contrast */
+  font-family: 'Georgia', serif; /* A more refined, classic font choice */
+  font-size: 16px; /* Slightly smaller size for subtlety */
+  font-style: italic; /* Maintains the italic styling for emphasis */
+  text-align: center; /* Keeps the text centered */
+  margin-top: 50px; /* Adjust spacing as needed */
+  padding: 20px;
+ background-color: rgba(244,244,255,0.2);
+/*   rgba(0, 0, 0, 0.2); */ 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+  /* margin-bottom: 2em; */
+}
+
+</style>
+
+<!-- is body the right tag to be using here -->
+
+    
+<div class="cta-text">
+    <p>{{ site.data.cta.description | markdownify }}</p>
+</div>
+
+

@@ -74,7 +74,6 @@ It's level of options are probably what some find frustrating about it. Of cours
 - The ability to itemize detailed costs in your Working, or Bid
 - Sophisticated Fringe & OT Presets you can save and apply as needed
 - A standalone Detail Browser
-    
 - **The PO log is ALSO the PO book.**
 - More sophisticated PC reconciliation
 - Colors & Buttons..
@@ -146,7 +145,6 @@ If you're familiar, or would like to corroborate some context, shoot [me](mailt
 - Travel Budget is built in, and doesn't require appendage like Hot Budget
 - Crew Headcount Feature
 - Fine point adjustment of Prod. Fee Feature
-    
 
 **The PO Log to PO Book feature is the real standout feature.** Especially considering Hot Budget's PO workflow was the number one con, when comparing it to Showbiz.
 
