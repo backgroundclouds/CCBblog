@@ -1,6 +1,7 @@
 ---
 title: Brand
 layout: landing
+position: 2
 # description: 'Marketing Executors'
 sub_description: |
     > #### Public Sentiment is everything.

@@ -45,12 +45,18 @@
 			<h3 class="">{{ page.description }}</h3>
 			
 			
-		</header>
+		
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" class="post-image" alt="" /></span>{% endif %}
 		
 
 		<h4 class=""><i class="fas fa-calendar"></i> Date Uploaded: {{ page.date | date: "%-d %B %Y" }}</h4>
+		{% if page.substack_link %}
+		<p>Originally posted on the <a href="{{ page.substack_link }}" target="_blank">JPTV Substack page</a> here.</p>
+	{% endif %}
+</header>
+
 		{{ content }}
+
 	</div>
 </section>
 

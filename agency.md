@@ -1,6 +1,7 @@
 ---
 title: Agency
 layout: landing
+position: 1
 # description: 'Creative Darlings'
 sub_description: |
     Experiments have shown that notions of causality and agency
