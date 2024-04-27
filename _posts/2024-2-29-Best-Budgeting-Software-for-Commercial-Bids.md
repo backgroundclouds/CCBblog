@@ -5,6 +5,7 @@ description: A Practical Rundown for Commercial Producers, Bidders, & PM's
 image: assets/images/Hot-Budget-Screenshot.png
 categories: brand
 excerpt: "To date, there are primarily 2 options for commercial bidding. Hot Budget or Showbiz. And although there are others, they are lesser known, and lesser used."
+slug: Best Budgeting Software for Commercial Bids
 ---
 
 When you're bidding (or actualizing) a commercial film shoot, there are a couple of different budget software’s you can use. But it's worth mentioning, almost everyone uses Hot Budget. Regardless, it merits a rundown to see what's out there, how they compare, and what any industry context might be.

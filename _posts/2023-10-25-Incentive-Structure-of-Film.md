@@ -2,7 +2,7 @@
 layout: post
 title: "Incentive Structure of Film"
 description: "What makes for successful television? What are the incentives for different platforms and the shows that run on them"
-image: assets/images/posts/incentive-film/Incentive-Film1.png
+image: assets/images/posts/incentive-film/IncentiveFilm4x.png
 categories: production
 excerpt: "If it looks like a Panavision, shoots like a Panavision, and hums like a Panavision, does that mean it produces motion pictures?"
 ---
