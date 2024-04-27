@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Suspension of Disbelief"
+subtitle: Subtextual Film Logic
 image: assets/images/posts/suspension/height-of-reality-graph.png
 categories: production
 description: " Why is it called the suspension of disbelief? <br>
@@ -9,8 +10,8 @@ Is it because you have to suspend what you do believe– or what you don't?"
 excerpt: "Why is it called the suspension of disbelief? <br>
 And not the suspension of belief?<br>
 Is it because you have to suspend what you do believe– or what you don't?"
+substack_link: https://jptv.substack.com/p/suspension-of-disbelief
 ---
-
 # Suspension of Disbelief
 ## Intro
 

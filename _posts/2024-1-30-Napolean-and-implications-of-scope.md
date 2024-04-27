@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Napolean and Implications of Scope"
-description: Using Napoleon as a jumping-off point to explore scope, modularity, and various aspects of complexity across mediums and sciences––
+subtitle: Ridley Scott's Napolean used as a jumping-off point to explore complexity across mediums 
+description: Using Ridley Scott's Napoleon as a jumping-off point to explore scope, modularity, and various aspects of complexity across mediums and sciences––
 image: assets/images/posts/scope/Scope-Cover.jpg
 categories: brand
 excerpt: "To date, there are primarily 2 options for commercial bidding. Hot Budget or Showbiz. And although there are others, they are lesser known, and lesser used."
 ---
-
 ## Napolean an issue of scope
 
 Game of Thrones is known as one of the most expensive TV shows ever produced. On a recent rewatching, I noticed something— Although there's much ado about its budget, **a given episode more closely resembles watching a budget-indie movie, rather than a mythic epic.** At fifteen million an episode, its production err's became suddenly apparent: the jumpy fight scene editing, the constantly tight cinematography, the crowds that aren't crowds. I couldn't help but think despite the mythic setting, Game of Thrones is no Ridley Scott production.

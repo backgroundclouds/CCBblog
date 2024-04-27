@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Best Budgeting Software for Commercial Bids"
+subtitle: A Practical Rundown for Commercial Producers, Bidders, & PM's
 description: A Practical Rundown for Commercial Producers, Bidders, & PM's
 image: assets/images/Hot-Budget-Screenshot.png
 categories: brand

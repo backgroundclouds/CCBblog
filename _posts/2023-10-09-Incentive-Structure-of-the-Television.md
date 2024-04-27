@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Incentive Structure of the Television"
+subtitle: "Dollars, Screens, and Aesthetics: The Various Modes of TV"
 description: "What makes for successful television? What are the incentives for different platforms and the shows that run on them"
 image: assets/images/posts/incentive-tv/incentive-tv.png
 categories: production
