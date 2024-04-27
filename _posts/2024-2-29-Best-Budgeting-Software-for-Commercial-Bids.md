@@ -120,8 +120,8 @@ Point Zero is essentially Hot Budget with much less functionality. If it "had" a
 
 Point Zero dates back into the 90's. I've been able to find no official arbiters or odes to its origins. Not so much as a website, or a LinkedIn page exists. After doing some digging into the Point Zero files that I have, I've been able to find this tiny bit of meta data. See screenshot below.
 
-![Descriptive Alt Text](/assets/images/posts/best-budgeting/PointZero-hex-search.png) 
-> *© 1996-2000 PointZero Productions. All Rights Reserved.*
+![Descriptive Alt Text](/assets/images/posts/best-budgeting/PointZero-hex-lookup.png)
+*© 1996-2000 PointZero Productions. All Rights Reserved.*
 
 **All Rights Reserved to who?** I attempted to reach the phone number hidden in the meta data, but unfortunately it seems to be dead.
 
