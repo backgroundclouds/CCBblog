@@ -6,6 +6,7 @@ description: Using Ridley Scott's Napoleon as a jumping-off point to explore sco
 image: assets/images/posts/scope/Scope-Cover.jpg
 categories: brand
 excerpt: "To date, there are primarily 2 options for commercial bidding. Hot Budget or Showbiz. And although there are others, they are lesser known, and lesser used."
+substack_link: https://jptv.substack.com/p/napolean-and-its-implications-of
 ---
 ## Napolean an issue of scope
 

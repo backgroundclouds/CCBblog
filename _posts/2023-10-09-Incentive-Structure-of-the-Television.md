@@ -8,7 +8,7 @@ categories: production
 excerpt: "Success in TV always boils down to viewership. Regardless of the platform—be it network television, premium, streaming, or other, value is determined by views. Incentives for the platform, the program creator, and advertisers, are always built around attention.
 <br>
 **Viewership => Sales**"
-substack_url:
+substack_link: https://open.substack.com/pub/jptv/p/incentive-structure-of-the-television?r=2a20hv&utm_campaign=post&utm_medium=web
 ---
 
 What makes for successful television? What are the incentives for different platforms and the shows that run on them?

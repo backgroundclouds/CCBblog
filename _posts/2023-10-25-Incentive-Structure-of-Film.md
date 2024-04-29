@@ -10,7 +10,6 @@ substack_link: https://open.substack.com/pub/jptv/p/incentive-structure-of-film?
 ---
 
 # Film or Content
-
 If it looks like a Panavision, shoots like a Panavision, and hums like a Panavision, does that mean it produces motion pictures?
 
 At what point does a motion picture film differ from _video content_ shot on like-tools? If there's an A-list actor in the frame, what then? What if all, or most of the ingredients are in both? Where does high quality content begin, and film end?
