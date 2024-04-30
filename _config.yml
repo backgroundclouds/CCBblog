@@ -6,7 +6,7 @@ favicon: hatchet.png
 description: Film intersects with advertising intersects with brand.
 meta-description: A blog exploring the nuance and detail that occurs in the overlapping fields of commercial production, creative ad agencies, and corporate brands. Specifically when viewed through the lense of filmmaking.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://creativecommercialsbrand.netlify.app" # the base hostname & protocol for your site
+url: "https://framebybrand.blog/" # the base hostname & protocol for your site
 author: JP- Parkhill
 city: New York
 state: NY
