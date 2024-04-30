@@ -4,11 +4,13 @@ title: "The Advertising Agency & The Myth of Intermediation"
 subtitle: "The paradox of The Holding Company: More shops, less share"
 description: The story of The Brand and The Advertising Agency across the era's 
 image: assets/images/posts/myth/Title-Card-3.png
-categories: agency, brand
+categories:
+  - agency
+  - brand
 excerpt: "*****
 Then one day in the 1960s, the world had carried forward and arrived into a state of ***cosmic*** modernity.
 ******
-And in this arrival, and exchange of what was called **FREE LOVE**, the Market shook. They didn't know what was different before. OR quite what was different afterwards. But during that shake, The Brand saw something it did NOT like. It was a glance of impropriety. ==A glance of intermediation.....=="
+And in this arrival, and exchange of what was called **FREE LOVE**, the Market shook. They didn't know what was different before. OR quite what was different afterwards. But during that shake, The Brand saw something it did NOT like. It was a glance of impropriety. A glance of intermediation....."
 substack_link: https://jptv.substack.com/p/the-advertising-agency-and-the-myth
 ---
 
