@@ -4,7 +4,7 @@ title: "Napolean and Implications of Scope"
 subtitle: Ridley Scott's Napolean used as a jumping-off point to explore complexity across mediums 
 description: Using Ridley Scott's Napoleon as a jumping-off point to explore scope, modularity, and various aspects of complexity across mediums and sciences––
 image: assets/images/posts/scope/Scope-Cover.jpg
-categories: brand
+categories: production
 excerpt: "To date, there are primarily 2 options for commercial bidding. Hot Budget or Showbiz. And although there are others, they are lesser known, and lesser used."
 substack_link: https://jptv.substack.com/p/napolean-and-its-implications-of
 ---

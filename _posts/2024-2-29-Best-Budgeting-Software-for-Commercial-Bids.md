@@ -4,7 +4,7 @@ title: "Best Budgeting Software for Commercial Bids"
 subtitle: A Practical Rundown for Commercial Producers, Bidders, & PM's
 description: A Practical Rundown for Commercial Producers, Bidders, & PM's
 image: assets/images/Hot-Budget-Screenshot.png
-categories: brand
+categories: production
 excerpt: "To date, there are primarily 2 options for commercial bidding. Hot Budget or Showbiz. And although there are others, they are lesser known, and lesser used."
 slug: Best Budgeting Software for Commercial Bids
 substack_link: https://jptv.substack.com/p/best-budgeting-software-for-commercial
