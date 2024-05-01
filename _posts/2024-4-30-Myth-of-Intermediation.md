@@ -19,7 +19,7 @@ substack_link: https://jptv.substack.com/p/the-advertising-agency-and-the-myth
 
 A bit of quasi-fiction I wrote, after a creationist-inspired stream of thought. It purports to explore the dynamic between advertising agencies, their brand clients, and what emerged as the trend of super merger agencies, ie holding companies. The accuracy is more rule-of-thumb, than historical. But it speaks to a sector dynamic that I don’t think gets much discussion.
 
- The issues with holding companies are not exclusive to the advertising sector. But they have arrived at a moment of crystallization. Its my belief, that the ad agency within a holding company stops acting in its own interest, the way a business-astute independent agency would. Rather the agency owned by the holding company acts in the interest of the holding company, this makes sense of-course. But the issue is, it is a very diffused interest to act on behalf of. The effects of this mode of business are residual, and hard to quantify, but there are arguments (or allegations) that there is a residual downshift in the quality of business by all those within the arena of creative advertising. Anyway, thanks for reading. 📖䷊❖🕊
+ The issues with holding companies are not exclusive to the advertising sector. But they have arrived at a moment of crystallization. Its my belief, that the ad agency within a holding company stops acting in its own interest, the way a business-astute independent agency would. Rather the agency owned by the holding company acts in the interest of the holding company, this makes sense of-course. But the issue is, it is a very diffused interest to act on behalf of. The effects of this mode of business are residual, and hard to quantify, but there are arguments (or allegations) that there is a  downshift in the quality of business by all those within the arena of creative advertising. Anyway, thanks for reading. 📖䷊❖🕊
 
 ## The Myth
 ### The Setup
@@ -39,9 +39,10 @@ There was The Brand. And shortly after that there was The Agency. The Brand was 
 
 In the earliest of days, this arrangement worked out well. These were the 1940s, **the good years**. 
 
-In these days The Agency would not only provide its *Spin* to the Agency. But it would also do the due dillegence of carrying *The Spin* to the Rivers of Awareness. But really what this meant was The Agency hired its own sherpas to make that trek.
+In these days The Agency would not only provide its Spin to the Agency. But it would also do the due dillegence of carrying The Spin to the Rivers of Awareness. But really what this meant was The Agency hired its own sherpas to make that trek.
 
 And all was well.
+
 ### Until the 60's
 ![A black & white photo from the 1960's, found under google image search results 'Free Love' shows nearly 100 young people in a room cheering](/assets/images/posts/myth/FREE-LOVE.png)*'FREE-LOVE' Google Image Search Results* 
 
@@ -72,9 +73,10 @@ From that day forward, The Brand decided <u>all Media Buys would happen out of h
 
 ******
 
-And although The Brand and The Agency were able to sort things out, and work together again, the contention in the relationship had become more obvious than before. And it was especially obvious in how they spoke to each other on the phone, or how they looked at each other in the hallways, when one or the other would be leaving.
+And although The Brand and The Agency were able to sort things out, and work together again, the contention in the relationship had become more obvious than before. And it was especially obvious in how they spoke to each other on the phone, or how they looked at each other in the hallways, when one or the other was leaving.
 
-And things were about as well as could be expected.... 
+And things were about as well as could be expected....
+
 ### Until the 90's
 ![A picture of a McDonalds somewhere in Eastern Europe, sometime in the 90s. Used by Khan in an article that depicts 1990s Globilisation](/assets/images/posts/myth/GLOBALISATION.png)
 *'GLOBALISATION' Google Image Search Results*
@@ -84,12 +86,12 @@ Then one day in the 1990s, the world had carried forward and arrived into a stat
 
 ******
 
-And in this arrival and exchange of what was called an **ERA OF GLOBALISATION**, the market did not shake, but it hummed. And in that shake, it was The Agency that saw something it had never seen before. A *vision of faux-intermediation* that would return both the dividends of handling, and the dividends of commision and much more.
+And in this arrival and exchange of what was called an **ERA OF GLOBALZATION**, the market did not shake, but it hummed. And in that shake, it was The Agency that saw something it had never seen before. A *vision of faux-intermediation* that would return both the dividends of handling, and the dividends of commision and much more.
 #### So what happened
 The Agency went down to the Bureau of Registrations to change its name to Holding Company. But not only this, it also wanted the ability to adopt itself. 
 - The Bureau admittedly thought this was a bit strange, but The Agency's various legal professionals were able to quash any concerns
 
-From this point on Holding Company was both its own father, and its own son. And not only that, it was also able to adopt others into its strange, self-fulfilling relationship. 
+From this point on The Holding Company was both its own father, and its own son. And not only that, it was also able to adopt others into its strange, self-fulfilling relationship. 
 
 **And with this new affinity for self-hood.**
 - The Holding Company was able to take on the role of multiple Shops
@@ -97,11 +99,11 @@ From this point on Holding Company was both its own father, and its own son. And
 - And in this collective-bargaining-power' it was able to reap commission, without reaping commission.
 
 ------
-### In the Midletimes
+### In the Middletimes
 
-To The Brand everything looked the same as before. It would travel from shop to shop, and although each shop had a new last name, they looked the same as before In fact, each storefront window was notably shiny. And the brand logo for each shop had very well defined bold outlines.
+To The Brand everything looked the same as before. It would travel from shop to shop, and although each shop had a new last name, they looked the same as before. In fact, each storefront window was notably shiny. And the brand logo for each shop had very well defined bold outlines.
 
-And although The Brand regarded all of this with suspicion, because historically that was the nature of the relationship, there was no real reason for alarm, or real reason not to procure all of its shops from The Holding Company. 
+And although The Brand regarded all of this with suspicion, because historically that was the nature of the relationship, there was no real reason for alarm, or real reason not to procure all of its services from The Holding Company.
 
 And every once in a while The Brand would find a new shop, that provided a new and exciting service. But before long, it would get adopted and show up the next day with Holding's last name.
 ### The Nowtimes
@@ -109,10 +111,8 @@ And every once in a while The Brand would find a new shop, that provided a new a
 Then one day in the 2020s, the world had carried forward and arrived into a state of **post-knowledge** and **post-being.**
 
 ******
-And in this arrival, and exchange of what was called **POST-SENTIENT**, the Market shook. And in that shake, nothing changed. No knowledge was gleamed. No knowledge was left to gleam. And everything just stayed on the same track as before. Although by this time The Holding Company was a far cry from The Agency it once was. It was fat and skinny and skinny all at the same time. And it spent most of its time sitting around the machinations of its own creation. A large cauldron pot.  Stopping only to uncurl its finger in the direction The Brand was best to go.
+And in this arrival, and exchange of what was called **POST-SENTIENT**, the Market shook. And in that shake, nothing changed. No knowledge was gleamed. No knowledge was left to gleam. And everything just stayed on the same track as before. Although by this time The Holding Company was a far cry from The Agency it once was. It was fat and skinny and skinny all at the same time. And it spent most of its time sitting around the machinations of its own creation. A large cauldron pot. No one knew what was inside. It would stop only to uncurl its finger in the direction, it advised The Brand was best to go.
 
 And The Brand, never got on well with any of The Holding Companys sur-children, but by this point everyone was accustomed to not speaking much anymore.
 
-And these days the Rivers of Awareness returned more sales than ever before...
-
-And these days The Brand received higher amounts of sales than ever before. Yet, the wealth had to be thinly spread across a vast array of The Holding Company's descendants—children, nieces, and cousins—diminishing the share each could claim, all under the guise of the so-called Agency Store Myth of Disintermediation.
+And these days the Rivers of Awareness returned more sales than ever before. But, the wealth had to be thinly spread across a vast array of The Holding Company's children, nieces, and cousins, and half-sons. All of which was of course done under the so-called Agency Store Myth of Disintermediation.
