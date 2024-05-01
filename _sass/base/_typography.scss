@@ -84,10 +84,13 @@ h1 {
 h2 {
 	font-size: 1.75em;
 	line-height: 1em !important;
+	margin: 0 0 (_size(element-margin) * 0.5) 0;
 }
 
 h3 {
 	font-size: 1.35em;
+	
+
 }
 
 h4 {
@@ -163,7 +166,7 @@ pre {
 hr {
 	border: 0;
 	border-bottom: solid 1px _palette(border);
-	margin: _size(element-margin) 0;
+	margin: (_size(element-margin) * 0.5) 0;
 
 	&.major {
 		margin: (_size(element-margin) * 1.5) 0;
