@@ -15,6 +15,11 @@ substack_link: https://jptv.substack.com/p/the-advertising-agency-and-the-myth
 ---
 
 # The Advertising Agency & the Myth Intermediation
+## The What
+
+A bit of quasi-fiction I wrote, after a creationist-inspired stream of thought. It purports to explore the dynamic between advertising agencies, their brand clients, and what emerged as the trend of super merger agencies, ie holding companies. The accuracy is more rule-of-thumb, than historical. But it speaks to a sector dynamic that I don’t think gets much discussion.
+
+ The issues with holding companies are not exclusive to the advertising sector. But they have arrived at a moment of crystallization. Its my belief, that the ad agency within a holding company stops acting in its own interest, the way a business-astute independent agency would. Rather the agency owned by the holding company acts in the interest of the holding company, this makes sense of-course. But the issue is, it is a very diffused interest to act on behalf of. The effects of this mode of business are residual, and hard to quantify, but there are arguments (or allegations) that there is a residual downshift in the quality of business by all those within the arena of creative advertising. Anyway, thanks for reading. 📖䷊❖🕊
 
 ## The Myth
 ### The Setup
