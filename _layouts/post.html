@@ -111,7 +111,7 @@ img + em { 	display: block; text-align: start; }
 
 		<h4 class=""><i class="fas fa-calendar"></i> Date Uploaded: {{ page.date | date: "%-d %B %Y" }}</h4>
 		{% if page.substack_link %}
-		<p>Originally posted on the <a href="{{ page.substack_link }}" target="_blank">Substack here.</a></p>
+		<p>Originally posted on <a href="{{ page.substack_link }}" target="_blank">Substack here.</a></p>
 	{% endif %}
 </header>
 
