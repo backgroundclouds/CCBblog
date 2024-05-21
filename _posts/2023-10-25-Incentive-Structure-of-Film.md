@@ -109,26 +109,35 @@ It is, because the actions and decisions made amount to a bet. A bet that can on
 
 
 ---
-# Non-Theatrical Movies: a diffusion of incentives
+## Non-Theatrical Movies: a diffusion of incentives
 
-It's not TV. It's TV Movies.
+---
 
-Just because a movie is shown in theaters, that doesn't necessarily make it a theatrical movie. It could be a TV movie, shown in theaters for whatever reason. What it comes down to is, how was it designed to earn revenue.
+> *It's not TV. It's TV Movies.*
 
-_The Take (2016)_ starring Idris Elba, was produced by Anonymous Content. The opening ten minutes of this movie are remarkable only in how unremarkable they are. It is clear this wasn't a movie made to fill seats at a theater.
+---
 
-Disguised as cinema in plain sight, _The Take (2016)_  has rotated between the front pages of streaming platforms Amazon Video and Netflix. Produced for a [modest 4 million](https://www.forbes.com/sites/scottmendelson/2020/09/20/idris-elba-james-bond-bastille-day-most-watched-movie-on-netflix/), it brought in [50K domestically](https://www.the-numbers.com/movie/Bastille-Day#tab=summary) & [15 million internationally](https://www.boxofficemojo.com/release/rl3632039425/). Although technically an exhibition success, the bar to pass was certainly low, particularly by action thriller standards. Whatever it was, it was a movie made with it’s end point in mind. Can an entire movie be filler? Where's the carrot, where's the stick?
-## Film Sets: No Constraints
+Just because a movie is shown in theaters, that doesn't necessarily make it a theatrical movie. It could be a TV movie, shown in theaters for whatever reason. In part it comes down to- how was it designed to earn revenue? But also, what’s the risk dynamic at play? In the best scenarios risk is actualized through realization of vision.
 
-When you're free to do whatever you want, create however you feel, what do you create? No ceilings. No walls. No floors?
+Movies like Scorsese’s *The Irishman*, or Baumbach’s *White Noise* are technically TV Movies. They weren’t designed to generate their money back through the Box Office. They were made to bring in, or keep streaming subscriptions. Both Scorsese and Baumbach are box-office tried and tested directors, and the products they created very much smelled like real theatrical movies. Moreover, there were external & internal pressures to perform well critically, even though revenue wasn’t on the line per say, rather this was a risk of hubris.
 
-The well trained director will surely make a product resembling that of traditional film. Baumbach’s _White Noise_ and Scorsese's _The Irishman–_ _mostly_ meet traditional frameworks of what film should look like. But if the outcome of a feature has already been determined before production is even started, what's really at stake?
+But if a TV Movie is anything— it’s a movie, with the elements of risk removed. No one typically know’s the name of a director. No one typically cares. There’s no pressure to make back the money spent. In some ways, the job is done before it’s even started.
 
-This difference in production becomes the distinctive difference between film sets that are producing films for theaters, and film sets that are producing anything else. A good director will always try to do a good job, but when you add increasing degrees of certainty, you're decreasing investment in outcome. And the tendency for the work to become _just another job_ becomes more likely.
+## A Not-So Great Example
 
-How tangible is the divide between a network production of day players who know exactly why they’re there, compared to a feature production that's expected to justify itself through its craft? Is it not tangible at all? Is everyone a working professional & that's it. Is it only relevant to the creative decision makers?
+*The Take (2016)* starring Idris Elba, produced by Anonymous Content had a reported production [cost of 4 million](https://www.forbes.com/sites/scottmendelson/2020/09/20/idris-elba-james-bond-bastille-day-most-watched-movie-on-netflix/), and presumably low-to-no marketing spend.
 
-**A thought experiment—**
+When it went to theaters, it cleared 50K domestically, and [15 million worldwide](https://www.the-numbers.com/movie/Bastille-Day#tab=international). A notably small amount for an action movie, but clearly surpassing cost nonetheless. Soon after, it was flipped to streaming, to both Amazon and Netflix.  It’s reasonable to assume for a fee somewhere in the low million/s.
+
+This movie is by all means of measurement a financial theatrical success.
+
+But what was really at risk here? 4 million is a low bar to clear, certainly with the star-studded power of Idris Elba.
+
+One only needs to watch the opening sequence of this movie to realize it is remarkable only in how unremarkable it is. Baseline camera work, an obvious production setup and camera crop, and a push-in that reads more as uninspired than drama. To me this feels like what happens when there’s no bar to clear. It feels like a movie that lacks that intangible something. The critical mass that occurs when you sprinkle in marketing, sweat equity, hollywood headliners, and stakes. All ingredients seen in great movies.
+
+Can an entire movie be filler? Where's the carrot, where's the stick?
+
+#### **A thought experiment—**
 
 What if Coppola had been tasked with making 'The Godfather' as a TV movie instead? What if all the stress and risk of the production were removed? And along with that, [the meticulous oversight and feedback process that the production is famous for](https://www.npr.org/2021/01/01/952279387/to-make-the-godfather-his-way-francis-ford-coppola-waged-a-studio-battle). With the scale + beauty + risk of exhibition gone, what would the result be?
 
@@ -136,12 +145,12 @@ What if Coppola had been tasked with making 'The Godfather' as a TV movie instea
 *Godfather: The TV Movie*
 
 ---
-# Modern Cinema
+## Modern Cinema
 
 Cinema is different today. But it's not that different. Despite the surplus of editorial chatter about super hero movies, and franchises, the paradigms of exhibiting a theatrical film are essentially unchanged. The dynamic of secondary streams is wildly varied, and market conditions are markedly different, but the operational structure of exhibiting a film is the same as it always was.
 
 Before exploring, its worth defining some common terms, in the lenses of incentive structure.
-## **Concepts**
+### **Concepts**
 
 - IP
 - Franchise
